@@ -1,7 +1,7 @@
 # ⚡ Olá, eu sou o João!
 
 Estudante de **Análise e Desenvolvimento de Sistemas (Fatec)**  
-Interessado em **Desenvolvimento e Ethical Hacking**  
+Interessado em **Desenvolvimento e cibersegurança**  
 Atualmente estudando **HTML, CSS, JavaScript, C e C#**  
 Fora da programação, também foco em **treino e evolução pessoal**  
 
