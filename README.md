@@ -2,7 +2,7 @@
 
 Estudante de **Análise e Desenvolvimento de Sistemas (Fatec)**  
 Interessado em **Desenvolvimento e cibersegurança**  
-Atualmente estudando **HTML, CSS, JavaScript, C e C#**  
+Atualmente estudando **HTML, CSS, JavaScript, C, C# e Python**  
 Fora da programação, também foco em **treino e evolução pessoal**  
 
 ---
