@@ -68,13 +68,9 @@
 </div>
 
 <br>
-
-<br>
 </details>
 
 ##
-
-<br>
 
 <br>
 
