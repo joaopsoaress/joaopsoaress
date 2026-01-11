@@ -1,5 +1,5 @@
-<!-- Banner dourado superior -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFD700&section=header"/>
+<!-- Banner azul noturno superior -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0A1A2F&section=header"/>
 
 <br>
 
@@ -12,28 +12,32 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=FFD700&width=900&size=22&center=true&lines=Developer+in+Training;Passionate+about+Cybersecurity;Focused+on+Learning+and+Growth;Welcome+to+my+GitHub!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=4DA6FF&width=900&size=22&center=true&lines=Developer+in+Training;Cybersecurity+Enthusiast;Night+Learner+%26+Problem+Solver;Welcome+to+my+GitHub!" alt="Typing SVG"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/joaopsoaress-black?style=for-the-badge&logo=github&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/joaopsoaress-0A1A2F?style=for-the-badge&logo=github&logoColor=4DA6FF" />
 </div>
 
 <br>
 <br>
 
-<!-- Estatísticas GitHub -->
+<!-- CURRENT FOCUS -->
 <div align="center">
-<img height=160 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=joaopsoaress&show_icons=true&count_private=true&rank_icon=github&theme=highcontrast&font=Iosevka"/>
-<img height=160 width=340 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopsoaress&layout=compact&font=Iosevka&langs_count=16&theme=highcontrast"/>
-  <br>
-  <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaopsoaress&theme=highcontrast"/>
+  <samp>
+    <b>CURRENT FOCUS</b>
+  </samp>
 </div>
 
-<br><br>
+```diff
++ Studying cybersecurity fundamentals
++ Building secure web applications
++ Exploring low-level behavior
+- Rushing progress
+```
+<br> <!-- IDENTITY LINE --> <div align="center"> <samp> Learning in silence. Building with purpose. </samp> </div>
 
 <!-- Ícones das linguagens -->
 <div align="center" style="display: inline_block"><br>
@@ -50,29 +54,16 @@
 <br>
 
 <details align="center">
-  <summary><samp><b>More Info</b></samp></summary>
+  <summary><samp><b>Contact me:</b></samp></summary>
 
 <br>
 
-##
-
-<div align="center">
-  <samp>
-    <b>Contact me:</b>
-  </samp>
-  <br><br>
-
-  [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FFD700)](mailto:joaopsoares015@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700)](https://www.linkedin.com/in/joaopsoaresrosa)
-  [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=FFD700)](https://discord.com/users/)
+  [![Gmail](https://img.shields.io/badge/Gmail-0A1A2F?style=for-the-badge&logo=gmail&logoColor=4DA6FF)](mailto:joaopsoares015@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A1A2F?style=for-the-badge&logo=linkedin&logoColor=4DA6FF)](https://www.linkedin.com/in/joaopsoaresrosa)
 </div>
 
 <br>
 </details>
 
-##
-
-<br>
-
-<!-- Banner inferior -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=100&section=footer"/>
+<!-- Banner azul noturno inferior -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A1A2F&height=100&section=footer"/>
